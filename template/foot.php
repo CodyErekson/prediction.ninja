@@ -15,45 +15,6 @@
                                 </section>
 
                         </div>
-						<div class="3u">
-							<section class="widget-contact last">
-								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-								<!-- Brackets -->
-								<ins class="adsbygoogle"
-								     style="display:inline-block;width:250px;height:250px"
-								     data-ad-client="ca-pub-1646443234587320"
-								     data-ad-slot="5622865978"></ins>
-								<script>
-								(adsbygoogle = window.adsbygoogle || []).push({});
-								</script>
-							</section>
-						</div>
-                        <div class="3u">
-                            <section class="widget-contact last">
-                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                                <!-- Brackets -->
-                                <ins class="adsbygoogle"
-                                     style="display:inline-block;width:250px;height:250px"
-                                     data-ad-client="ca-pub-1646443234587320"
-                                     data-ad-slot="5622865978"></ins>
-                                <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                                </script>
-                            </section>
-                        </div>
-                        <div class="3u">
-                            <section class="widget-contact last">
-                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                                <!-- Brackets -->
-                                <ins class="adsbygoogle"
-                                     style="display:inline-block;width:250px;height:250px"
-                                     data-ad-client="ca-pub-1646443234587320"
-                                     data-ad-slot="5622865978"></ins>
-                                <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                                </script>
-                            </section>
-                        </div>
                     </div>
                     <div class="row">
                         <div class="12u">
