@@ -10,7 +10,7 @@ $footer_js = "";
 -->
 <html>
     <head>
-        <title>RoboPaul: <?php echo date('Y'); ?> NCAA Tournament Bracket Calculator</title>
+        <title><?php echo date('Y'); ?> NCAA Tournament Bracket Calculator -- Powered by RoboPaul&copy;</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Social media bracket predictor." />
         <meta name="keywords" content="social media sports bracket prediction" />
