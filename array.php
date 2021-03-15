@@ -176,83 +176,83 @@ $west = array(
 );
 $midwest = array(
     "1" => array(
-        "team" => "north-carolina",
-        "full" => "North Carolina Tar Heels",
+        "team" => "illinois",
+        "full" => "Illinois Fighting Illini",
         "search" => "UNC"
     ),
     "2" => array(
-        "team" => "kentucky",
-        "full" => "Kentucky",
-        "search" => ""
-    ),
-    "3" => array(
         "team" => "houston",
         "full" => "Houston Cougars",
         "search" => ""
     ),
+    "3" => array(
+        "team" => "west-virginia",
+        "full" => "West Virginia Mountaineers",
+        "search" => ""
+    ),
     "4" => array(
-        "team" => "kansas",
-        "full" => "Kansas Jayhawks",
+        "team" => "oklahoma-state",
+        "full" => "Oklahoma State Cowboys",
         "search" => ""
     ),
     "5" => array(
-        "team" => "auburn",
-        "full" => "Auburn Tigers",
+        "team" => "tennessee",
+        "full" => "Tennessee Volunteers",
         "search" => ""
     ),
     "6" => array(
-        "team" => "iowa-state",
-        "full" => "Iowa State Cyclones",
+        "team" => "san-diego",
+        "full" => "San Diego State Aztecs",
         "search" => ""
     ),
     "7" => array(
-        "team" => "wofford",
-        "full" => "Wofford Terriers",
+        "team" => "clemson",
+        "full" => "Clemson Tigers",
         "search" => ""
     ),
     "8" => array(
-        "team" => "utah-state",
-        "full" => "Utah State Aggies",
+        "team" => "loyola-chicago",
+        "full" => "Loyola Chicago Ramblers",
         "search" => ""
     ),
     "9" => array(
-        "team" => "washington",
-        "full" => "Washington Huskies",
+        "team" => "georgia-tech",
+        "full" => "Georgia Tech Yellow Jackets",
         "search" => ""
     ),
     "10" => array(
-        "team" => "seton-hall",
-        "full" => "Seton Hall Pirates",
+        "team" => "rutgers",
+        "full" => "Rutgers Scarlet Knights",
         "search" => ""
     ),
     "11" => array(
-        "team" => "ohio-state",
-        "full" => "Ohio State Buckeyes",
+        "team" => "syracuse",
+        "full" => "Syracuse Orange",
         "search" => ""
     ),
    "12" => array(
-        "team" => "new-mexico-state",
-        "full" => "New Mexico State Aggies",
+        "team" => "oregon-state",
+        "full" => "Oregon State Beavers",
         "search" => ""
     ),
     "13" => array(
-        "team" => "northeastern",
-        "full" => "Northeastern Huskies",
+        "team" => "liberty",
+        "full" => "Liberty Flames",
         "search" => ""
     ),
     "14" => array(
-        "team" => "georgia-state",
-        "full" => "Georgia State Panthers",
+        "team" => "morehead",
+        "full" => "Morehead State Eagles",
         "search" => ""
     ),
     "15" => array(
-        "team" => "abilene",
-        "full" => "Abilene Christian Wildcats",
+        "team" => "cleveland",
+        "full" => "Cleveland State Vikings",
         "search" => ""
     ),
     "16" => array(
-        "team" => "iona",
-        "full" => "Iona Gaels",
+        "team" => "drexel",
+        "full" => "Drexel Dragons",
         "search" => ""
     )
 );
