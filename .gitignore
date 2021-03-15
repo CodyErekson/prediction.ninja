@@ -1,12 +1,13 @@
 # Application Specific #
 #######################
 #/api/
+config.json
 
 # Package Manager Components #
 ##############################
 /bower_components/
 /node_modules/
-/vendor/
+/**/vendor/
 composer.lock
 
 # Utility Related #

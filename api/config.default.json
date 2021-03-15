@@ -1,0 +1,51 @@
+{
+  "site": {
+    "title": "RoboPaul -- Psychic Octopus",
+    "short": "RoboPaul",
+    "url": "robopaul.prediction.ninja",
+    "path": "/",
+    "protocol": "http://",
+    "description": "",
+    "author": "Cody Erekson"
+  },
+  "directories": {
+    "root": "/home/predict/public_html/paul2016",
+    "log": "/log",
+    "dashboard": "/dashboard"
+  },
+  "database": {
+    "enabled": false,
+    "host": "",
+    "database": "",
+    "user": "",
+    "password": ""
+  },
+  "email": {
+    "host": "",
+    "username": "",
+    "password": "",
+    "port": "",
+    "address": ""
+  },
+  "debug": {
+    "debug": "",
+    "verbose": "",
+    "display": "",
+    "ip": ""
+  },
+  "logs": {
+    "general_log": "general",
+    "general_error_log": "error",
+    "debug_log": "debug"
+  },
+  "general": {
+    "buffer": "10"
+  },
+  "twitter": {
+    "oauth_access_token": "",
+    "oauth_access_token_secret": "",
+    "consumer_key": "",
+    "consumer_secret": "",
+    "blacklist": "@Holly_Wofford,@georgelittledc,@Master_Vaughn"
+  }
+}

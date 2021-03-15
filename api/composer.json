@@ -1,0 +1,26 @@
+{
+    "name": "Chillem/RoboPaul",
+    "description": "The Real Psychic Octopus",
+    "keywords": ["NCAA Basketball March Madness Bracket Calculator Predictor Algorithm Psychic"],
+    "homepage": "http://robopaul.prediction.ninja",
+    "license": "MIT",
+    "authors": [{
+        "name": "Cody Erekson",
+        "role": "Developer",
+        "email": "cody@erekson.org",
+        "homepage": "http://codyerekson.me"
+    }],
+    "require": {
+        "php": ">= 5.4.0",
+        "symfony/yaml": "~2.5",
+        "hassankhan/config": "0.10.0",
+	"j7mbo/twitter-api-php": "dev-master",
+	"mikecao/flight": "dev-master",
+        "monolog/monolog": "^1.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoboPaul\\": "src/"
+        }
+    }
+}
