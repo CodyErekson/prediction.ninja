@@ -258,93 +258,93 @@ $midwest = array(
 );
 $east = array(
     "1" => array(
-        "team" => "duke",
-        "full" => "Duke Blue Devils",
+        "team" => "michigan",
+        "full" => "Michigan Wolverines",
         "search" => ""
     ),
     "2" => array(
-        "team" => "michigan-state",
-        "full" => "Michigan State Spartans",
+        "team" => "alabama",
+        "full" => "Alabama Crimson Tide",
         "search" => ""
     ),
     "3" => array(
-        "team" => "lsu",
-        "full" => "LSU Tigers",
+        "team" => "texas",
+        "full" => "Texas Longhorns",
         "search" => "LSU"
     ),
     "4" => array(
-        "team" => "virginia-tech",
-        "full" => "Virginia Tech Hokies",
+        "team" => "florida-state",
+        "full" => "Florida State Seminoles",
         "search" => ""
     ),
     "5" => array(
-        "team" => "mississippi-state",
-        "full" => "Mississippi State Bulldogs",
+        "team" => "colorado",
+        "full" => "Colorado Buffaloes",
         "search" => ""
     ),
     "6" => array(
+        "team" => "byu",
+        "full" => "BYU Cougars",
+        "search" => ""
+    ),
+    "7" => array(
+        "team" => "uconn",
+        "full" => "UConn Huskies",
+        "search" => ""
+    ),
+    "8" => array(
+        "team" => "lsu",
+        "full" => "LSU Tigers",
+        "search" => ""
+    ),
+    "9" => array(
+        "team" => "saint-bonaventure",
+        "full" => "St. Bonaventure Bonnies",
+        "search" => ""
+    ),
+    "10" => array(
         "team" => "maryland",
         "full" => "Maryland Terrapins",
         "search" => ""
     ),
-    "7" => array(
-        "team" => "louisville",
-        "full" => "Louisville Cardinals",
-        "search" => ""
-    ),
-    "8" => array(
-        "team" => "vcu",
-        "full" => "VCU Rams",
-        "search" => "VCU"
-    ),
-    "9" => array(
-        "team" => "ucf",
-        "full" => "UCF Knights",
-        "search" => "UCF"
-    ),
-    "10" => array(
-        "team" => "minnesota",
-        "full" => "Minnesota Golden Gophers",
-        "search" => ""
-    ),
     "11" => array(
-        "team" => "belmont",
-        "full" => "Belmont Bruins",
+        "team" => "michigan-state",
+        "full" => "Michigan State Spartans",
         "search" => ""
     ),
     "12" => array(
-        "team" => "liberty",
-        "full" => "Liberty Flames",
+        "team" => "georgetown",
+        "full" => "Georgetown Hoyas",
         "search" => ""
     ),
     "13" => array(
-        "team" => "saint-louis",
-        "full" => "Saint Louis Billikens",
+        "team" => "unc-greensboro",
+        "full" => "UNC Greensboro Spartans",
         "search" => ""
     ),
     "14" => array(
-        "team" => "yale",
-        "full" => "Yale Bulldogs",
+        "team" => "abilene-christian",
+        "full" => "Abilene Christian Wildcats",
         "search" => ""
     ),
     "15" => array(
-        "team" => "bradley",
-        "full" => "Bradley Braves",
+        "team" => "iona",
+        "full" => "Iona Gaels",
         "search" => ""
     ),
     "16" => array(
-        "team" => "nc-central",
-        "full" => "North Carolina Central Eagles",
+        "team" => "mount-st-marys",
+        "full" => "Mount St. Mary's Mountaineers",
         "search" => ""
     ),
     "17" => array(
-        "team" => "temple",
-        "full" => "Temple Owls",
+        "team" => "ucla",
+        "full" => "UCLA Bruins",
         "search" => ""
     ),
     "18" => array(
-        "team" => "north-dakota-state",
-        "full" => "North Dakota State Bison",
+        "team" => "texas-southern",
+        "full" => "Texas Southern Tigers",
         "search" => ""
     )
 );
