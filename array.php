@@ -89,88 +89,88 @@ $west = array(
         "search" => ""
     ),
     "2" => array(
-        "team" => "michigan",
-        "full" => "Michigan Wolverines",
+        "team" => "iowa",
+        "full" => "Iowa Hawkeyes",
         "search" => ""
     ),
     "3" => array(
-        "team" => "texas-tech",
-        "full" => "Texas Tech Red Raiders",
+        "team" => "kansas",
+        "full" => "Kansas Jayhawks",
         "search" => ""
     ),
     "4" => array(
-        "team" => "florida-state",
-        "full" => "Florida State Seminoles",
+        "team" => "virginia",
+        "full" => "Virginia Cavaliers",
         "search" => ""
     ),
     "5" => array(
-        "team" => "marquette",
-        "full" => "Marquette Golden Eagles",
+        "team" => "creighton",
+        "full" => "Creighton Bluejays",
         "search" => ""
     ),
     "6" => array(
-        "team" => "buffalo",
-        "full" => "Buffalo Bulls",
+        "team" => "usc",
+        "full" => "USC Trojans",
         "search" => ""
     ),
     "7" => array(
-        "team" => "nevada",
-        "full" => "Nevada Wolf Pack",
+        "team" => "oregon",
+        "full" => "Oregon Ducks",
         "search" => ""
     ),
     "8" => array(
-        "team" => "syracuse",
-        "full" => "Syracuse Orange",
+        "team" => "oklahoma",
+        "full" => "Oklahoma Sooners",
         "search" => ""
     ),
     "9" => array(
-        "team" => "baylor",
-        "full" => "Baylor Bears",
+        "team" => "missouri",
+        "full" => "Missouri Tigers",
         "search" => ""
     ),
     "10" => array(
-        "team" => "florida",
-        "full" => "Florida Gators",
+        "team" => "vcu",
+        "full" => "VCU Rams",
         "search" => ""
     ),
     "11" => array(
-        "team" => "arizona-state",
-        "full" => "Arizona State Sun Devils",
+        "team" => "drake",
+        "full" => "Drake Bulldogs",
         "search" => ""
     ),
     "12" => array(
-        "team" => "murray-state",
-        "full" => "Murray State Racers",
+        "team" => "ucsb",
+        "full" => "UCSB Gauchos",
         "search" => ""
     ),
     "13" => array(
-        "team" => "vermont",
-        "full" => "Vermont Catamounts",
+        "team" => "ohio",
+        "full" => "Ohio Bobcats",
         "search" => ""
     ),
     "14" => array(
-        "team" => "northern-kentucky",
-        "full" => "Northern Kentucky Norse",
+        "team" => "eastern-washington",
+        "full" => "Eastern Washington Eagles",
         "search" => ""
     ),
     "15" => array(
-        "team" => "montana",
-        "full" => "Montana Grizzlies",
-        "search" => ""
+        "team" => "grand-canyon",
+        "full" => "Grand Canyon Antelopes",
+        "search" => "GCU Lopes"
     ),
     "16" => array(
-        "team" => "farleigh-dickinson",
-        "full" => "Farleigh Dickinson Knights",
+        "team" => "appalachian",
+        "full" => "Appalachian State Mountaineers",
         "search" => ""
     ),
     "17" => array(
-        "team" => "st-johns",
-        "full" => "St. John's Red Storm",
+        "team" => "wichita",
+        "full" => "Wichita Shockers",
         "search" => ""
     ),
     "18" => array(
-        "team" => "prairie-view",
-        "full" => "Prairie View A&M Panthers",
+        "team" => "norfolk",
+        "full" => "Norfolk State Spartans",
         "search" => ""
     )
 );
