@@ -154,7 +154,7 @@ $west = array(
         "search" => ""
     ),
     "15" => array(
-        "team" => "grand-canyon",
+        "team" => "gcu",
         "full" => "Grand Canyon Antelopes",
         "search" => "GCU Lopes"
     ),
