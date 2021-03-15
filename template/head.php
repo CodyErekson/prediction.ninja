@@ -31,6 +31,7 @@ $footer_js = "";
         <script src="js/skel.min.js"></script>
         <script src="js/skel-panels.min.js"></script>
 		<script src="js/jquery-ui-1.10.4.custom.js"></script>
+		<script data-ad-client="ca-pub-1646443234587320" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <noscript>
             <link rel="stylesheet" href="css/skel-noscript.css" />
 
