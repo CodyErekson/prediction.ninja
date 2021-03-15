@@ -2,83 +2,83 @@
 
 $south = array(
 	"1" => array(
-		"team" => "virginia",
-		"full" => "Virginia Cavaliers",
+		"team" => "baylor",
+		"full" => "Baylor Bears",
 		"search" => ""
 	),
 	"2" => array(
-        "team" => "tennessee",
-        "full" => "Tennessee Volunteers",
+        "team" => "ohio-state",
+        "full" => "Ohio State Buckeyes",
         "search" => ""
 	),
 	"3" => array(
-		"team" => "purdue",
-		"full" => "Purdue Boilermakers",
+		"team" => "arkansas",
+		"full" => "Arkansas Razorbacks",
         "search" => ""
 	),
     "4" => array(
-        "team" => "kansas-state",
-        "full" => "Kansas State Wildcats",
+        "team" => "purdue",
+        "full" => "Purdue Boilermakers",
         "search" => ""
     ),
     "5" => array(
-        "team" => "wisconsin",
-        "full" => "Wisconsin Badgers",
-        "search" => ""
-    ),
-    "6" => array(
         "team" => "villanova",
         "full" => "Villanova Wildcats",
         "search" => ""
     ),
+    "6" => array(
+        "team" => "texas-tech",
+        "full" => "Texas Tech Red Raiders",
+        "search" => ""
+    ),
     "7" => array(
-        "team" => "cincinatti",
-        "full" => "Cincinatti Bearcats",
+        "team" => "florida",
+        "full" => "Florida Gators",
         "search" => ""
     ),
     "8" => array(
-        "team" => "mississippi",
-        "full" => "Ole Miss Rebels",
+        "team" => "north-carolina",
+        "full" => "North Carolina Tar Heels",
         "search" => ""
     ),
     "9" => array(
-        "team" => "oklahoma",
-        "full" => "Oklahoma Sooners",
+        "team" => "wisconsin",
+        "full" => "Wisconsin Badgers",
         "search" => ""
     ),
     "10" => array(
-        "team" => "iowa",
-        "full" => "Iowa Hawkeyes",
+        "team" => "virginia-tech",
+        "full" => "Virginia Tech Hokies",
         "search" => ""
     ),
     "11" => array(
-        "team" => "saint-marys",
-        "full" => "Saint Mary's Gaels",
+        "team" => "utah-state",
+        "full" => "Utah State Aggies",
         "search" => ""
     ),
    "12" => array(
-        "team" => "oregon",
-        "full" => "Oregon Ducks",
+        "team" => "winthrop",
+        "full" => "Winthrop Eagles",
         "search" => ""
     ),
     "13" => array(
-        "team" => "uc-irvine",
-        "full" => "UC Irvine Anteaters",
+        "team" => "north-texas",
+        "full" => "North Texas Mean Green",
         "search" => ""
     ),
     "14" => array(
-        "team" => "old-dominion",
-        "full" => "Old Dominion Monarchs",
-        "search" => ""
-    ),
-    "15" => array(
         "team" => "colgate",
         "full" => "Colgate Raiders",
         "search" => ""
     ),
+    "15" => array(
+        "team" => "oral-roberts",
+        "full" => "Oral Roberts Golden Eagles",
+        "search" => ""
+    ),
     "16" => array(
-        "team" => "gardner-webb",
-        "full" => "Gardner-Webb Bulldogs",
+        "team" => "hartford",
+        "full" => "Hartford Hawks",
         "search" => ""
     )
 );
