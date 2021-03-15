@@ -1,13 +1,13 @@
 {
-    "name": "Chillem/RoboPaul",
+    "name": "chillem/robopaul",
     "description": "The Real Psychic Octopus",
-    "keywords": ["NCAA Basketball March Madness Bracket Calculator Predictor Algorithm Psychic"],
-    "homepage": "http://robopaul.prediction.ninja",
+    "keywords": ["Bracket Calculator Predictor Algorithm Psychic"],
+    "homepage": "http://api.prediction.ninja",
     "license": "MIT",
     "authors": [{
         "name": "Cody Erekson",
         "role": "Developer",
-        "email": "cody@erekson.org",
+        "email": "cody.erekson@gmail.com",
         "homepage": "http://codyerekson.me"
     }],
     "require": {
